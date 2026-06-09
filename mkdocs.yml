@@ -1,1 +1,8 @@
 site_name: Exercícios Módulo 4
+
+theme:
+  name: material
+
+extra:
+  version:
+    provider: mike
